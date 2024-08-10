@@ -1,5 +1,7 @@
 # ![[tktk Module Name]](./assets/java-control-flow.png)
 
+# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://git.generalassemb.ly/modular-curriculum-all-courses/java-control-flow) repo instead.
+
 ## About
 
 Enhance your programming acumen, specifically in controlling the flow of your code with conditional statements and loops, enriching your foundational knowledge for more advanced software development.
